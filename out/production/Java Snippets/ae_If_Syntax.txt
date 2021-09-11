@@ -1,0 +1,18 @@
+IF STATEMENT
+
+if (<condition>)
+{
+    Statements;
+}
+
+else if (<condition>)     // Can be multiple types
+{
+    Statements;
+}
+
+else
+{
+    Statements;
+}
+
+

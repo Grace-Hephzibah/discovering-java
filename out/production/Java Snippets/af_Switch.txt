@@ -1,0 +1,15 @@
+SWITCH STATEMENT
+
+switch(<expression OR Int-Variable  OR  Char-Variable>)
+{
+    case <val1>:
+        Statement;
+        break;
+
+    case <val2>:
+            Statement;
+            break;
+
+    default:
+        Statment;
+}

@@ -1,0 +1,10 @@
+There are 2 types of jump statements.
+They are
+1. break
+2. continue
+
+Break:
+Ends the loop within which it is defined.
+
+Continue:
+Skips the iteration within which block it is defined.

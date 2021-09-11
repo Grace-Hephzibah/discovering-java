@@ -1,0 +1,17 @@
+FOR LOOP
+for(initialization ; condition ; updation)
+{
+
+}
+
+WHILE LOOP
+while(condition)
+{
+
+}
+
+DO-WHILE LOOP
+do
+{
+
+} while(condition);

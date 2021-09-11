@@ -1,0 +1,9 @@
+OPERATORS
+
+1. Arithmetic  + - * / %
+2. Boolean && || !
+3. Relational <  >  <=  >= !=
+
+
+Ternary Operator
+variable = <condition> ? True Statement : False Statment;

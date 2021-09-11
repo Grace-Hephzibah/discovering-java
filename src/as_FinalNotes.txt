@@ -1,0 +1,13 @@
+The keyword Final has three uses.
+- First, it can be used to create the equivalent of a named constant
+- The next two apply to Inheritance
+
+To set a Fixed value use FINAL (final)
+(i.e) Constant
+- Variable Handling
+    Here the value cannot be changed.
+- Method Handling
+    Here the method cannot be overwritten.
+- Class Handling
+    Here the Class cannot be inherited
+
